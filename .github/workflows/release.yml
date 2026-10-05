@@ -1,3 +1,4 @@
+# Publica instaladores firmados de Dino Time a partir del código privado.
 name: Publicar versión de Dino Time
 
 on:
